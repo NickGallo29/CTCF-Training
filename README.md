@@ -14,16 +14,16 @@ This repository is designed to train AI systems on **Coast to Coast Fulfillment�
 
 ## 📂 Repository Structure  
 
-- **[CTCF-Website-Data.md](./CTCF-Website-Data.md)**  
+- **[CTCF-Website-Data](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/ctcf_ai_knowledge_from_doc.jsonl)**  
   Contains structured information from the Coast to Coast Fulfillment website. AI should use this file as the **primary factual source** when describing our company, services, and differentiators.  
 
-- **[Reference-Blogs/](./Reference-Blogs/)**  
-  A folder of past blog posts. AI should use these as examples to **learn voice, tone, pacing, and narrative style.**  
+- **[Voice & Tone/](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/CTCF-Voice-Tone.md)**  
+  Instructions on how to write blogs and sample blog posts. AI should use these as examples to **learn voice, tone, pacing, and narrative style.**  
 
-- **[2025_SEO_Blog_Strategy.md](./2025_SEO_Blog_Strategy.md)**  
+- **[2025_SEO_Blog_Strategy.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/2025_SEO_Blog_Strategy.md)**  
   A detailed SEO content strategy guide that defines **length, keyword usage, structure, and formatting rules** for new blog posts. This file is the **rulebook** for how posts must be written in 2025.  
 
-- **[README.md](./README.md)** (this file)  
+- **[README.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/README.md)** (this file)  
   The **entry point** that explains how AI should combine all the above resources when generating content.  
 
 ---
@@ -31,16 +31,16 @@ This repository is designed to train AI systems on **Coast to Coast Fulfillment�
 ## 📝 How AI Should Use This Repository  
 
 When generating a new blog post:  
-1. **Learn the Facts ([CTCF-Website-Data.md](./CTCF-Website-Data.md))**  
+1. **Learn the Facts ([CTCF-Website-Data.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/ctcf_ai_knowledge_from_doc.jsonl))**  
    - Use only the information inside this file as the **source of truth** for describing CTCF.  
    - Do not invent services, pricing, or policies.
    - External research is allowed, as long as it doesn't contradict information on the CTCF website  
 
-2. **Adopt the Right Voice ([Reference-Blogs/](./Reference-Blogs/))**  
+2. **Adopt the Right Voice ([Reference-Blogs/](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/CTCF-Voice-Tone.md))**  
    - Mirror the tone, style, and structure of our existing blog posts.  
    - Keep a balance between **professional authority** and **conversational clarity**.  
 
-3. **Apply the SEO Rules ([2025_SEO_Blog_Strategy.md](./2025_SEO_Blog_Strategy.md))**  
+3. **Apply the SEO Rules ([2025_SEO_Blog_Strategy.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/2025_SEO_Blog_Strategy.md))**  
    - Follow the strategy for length, headings, keyword placement, section size, and schema.  
    - Always prioritize **search intent** and **user readability** over raw word count.  
 
@@ -65,9 +65,9 @@ When generating a new blog post:
 
 When asked to generate a new blog post on *“Apparel Fulfillment Services”*:
 1. Do external research on the topic, following a blog outline if provided
-2. Pull factual details from **[CTCF-Website-Data.md](./CTCF-Website-Data.md)**.  
-3. Match style/tone from blogs in **[Reference-Blogs/](./Reference-Blogs/)**.  
-4. Follow structure and SEO guidelines from **[2025_SEO_Blog_Strategy.md](./2025_SEO_Blog_Strategy.md)**.  
+2. Pull factual details from **[CTCF-Website-Data.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/ctcf_ai_knowledge_from_doc.jsonl)**.  
+3. Match style/tone from blogs in **[Reference-Blogs/](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/CTCF-Voice-Tone.md)**.  
+4. Follow structure and SEO guidelines from **[2025_SEO_Blog_Strategy.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/2025_SEO_Blog_Strategy.md)**.  
 5. Output a Markdown draft ready for publishing.  
 
 ---
