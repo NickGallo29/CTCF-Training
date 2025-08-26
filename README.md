@@ -33,7 +33,8 @@ This repository is designed to train AI systems on **Coast to Coast Fulfillment�
 When generating a new blog post:  
 1. **Learn the Facts ([CTCF-Website-Data.md](./CTCF-Website-Data.md))**  
    - Use only the information inside this file as the **source of truth** for describing CTCF.  
-   - Do not invent services, pricing, or policies.  
+   - Do not invent services, pricing, or policies.
+   - External research is allowed, as long as it doesn't contradict information on the CTCF website  
 
 2. **Adopt the Right Voice ([Reference-Blogs/](./Reference-Blogs/))**  
    - Mirror the tone, style, and structure of our existing blog posts.  
@@ -51,7 +52,8 @@ When generating a new blog post:
 
 ## ✅ Rules for Blog Posts  
 
-- **Accuracy:** Never contradict or extend beyond the information in [CTCF-Website-Data.md](./CTCF-Website-Data.md).  
+- **Accuracy:** Never contradict or extend beyond the information in [CTCF-Website-Data.md](./CTCF-Website-Data.md).
+- **Research** External research is often required for blog posts. Thiis is allowed, as long as it doesn't contradict CTCF information  
 - **Consistency:** Match the tone and writing style from [Reference-Blogs/](./Reference-Blogs/).  
 - **Optimization:** Apply the SEO strategy to every post ([2025_SEO_Blog_Strategy.md](./2025_SEO_Blog_Strategy.md)).  
 - **Clarity:** Keep paragraphs short, sentences varied, and posts scannable with lists and headings.  
@@ -61,11 +63,12 @@ When generating a new blog post:
 
 ## 🚀 Usage Example  
 
-When asked to generate a new blog post on *“Apparel Fulfillment Services”*:  
-1. Pull factual details from **[CTCF-Website-Data.md](./CTCF-Website-Data.md)**.  
-2. Match style/tone from blogs in **[Reference-Blogs/](./Reference-Blogs/)**.  
-3. Follow structure and SEO guidelines from **[2025_SEO_Blog_Strategy.md](./2025_SEO_Blog_Strategy.md)**.  
-4. Output a Markdown draft ready for publishing.  
+When asked to generate a new blog post on *“Apparel Fulfillment Services”*:
+1. Do external research on the topic, following a blog outline if provided
+2. Pull factual details from **[CTCF-Website-Data.md](./CTCF-Website-Data.md)**.  
+3. Match style/tone from blogs in **[Reference-Blogs/](./Reference-Blogs/)**.  
+4. Follow structure and SEO guidelines from **[2025_SEO_Blog_Strategy.md](./2025_SEO_Blog_Strategy.md)**.  
+5. Output a Markdown draft ready for publishing.  
 
 ---
 
