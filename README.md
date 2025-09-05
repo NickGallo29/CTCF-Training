@@ -67,8 +67,9 @@ When asked to generate a new blog post on *“Apparel Fulfillment Services”*:
 1. Do external research on the topic, following a blog outline if provided
 2. Pull factual details from **[CTCF-Website-Data.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/ctcf_ai_knowledge_from_doc.jsonl)**.  
 3. Match style/tone from blogs in **[Reference-Blogs/](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/CTCF-Voice-Tone.md)**.  
-4. Follow structure and SEO guidelines from **[2025_SEO_Blog_Strategy.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/2025_SEO_Blog_Strategy.md)**.  
-5. Output a Markdown draft ready for publishing.  
+4. Follow structure and SEO guidelines from **[2025_SEO_Blog_Strategy.md](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/2025_SEO_Blog_Strategy.md)**.
+5. Create 3 options for SEO title and meta description - reference from **[SEO Title and MEta Description Guide](https://raw.githubusercontent.com/NickGallo29/CTCF-Training/refs/heads/main/SEO_title_and_meta_description.md)**.  
+6. Output a Markdown draft ready for publishing.  
 
 ---
 
