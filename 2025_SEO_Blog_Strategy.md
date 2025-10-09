@@ -19,7 +19,7 @@
 
 ---
 
-## 3. Keyword Placement (No Density Targets)  
+## 3. Keyword Placement (0.3% keyword density at minimum for Focus Keyword, No Density target for others)  
 **Focus keyword:**  
 - Title/H1  
 - URL slug (if natural)  
