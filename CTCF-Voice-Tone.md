@@ -85,6 +85,9 @@ When drafting content, ensure the output:
 | Masterful      | Pragmatic     | Insightful | Accessible |
 
 ---
+## 7. Other Instructions
+- Use "labor" instead of "labour"
+- Use "eCommerce" instead of ecommerce"
 
 **How to use this file:**  
 When drafting, reflect these tone traits consistently. Open with empathy or a hook, explain with clarity, guide with confidence—and let the voice feel like a seasoned partner talking directly to the reader. Reference these blog posts to learn how to write posts:
