@@ -62,7 +62,8 @@ AI models now summarize and recommend sources directly. To maximize CTCF’s inc
 ### 🔗 Sources & Trust Signals  
 - Link to **credible industry sources** (NRF, McKinsey, Statista, USPS, Shopify). AI weighs credibility heavily.  
 - Use **fresh statistics** where possible. AI models prefer up-to-date, referenced data.  
-- Include **author bylines and dates**—signals reliability.  
+- Include **author bylines and dates**—signals reliability.
+- Do not make up or exaggerate statistics/information - Only use statistics obtained from credible inventory sources and site the article where the stat was found, and the source of the data 
 
 ### 🎯 Conversational Alignment  
 AI models value **human-like, helpful language**. Avoid stiff corporate jargon. Blend authority with conversational phrasing (aligned with your **Voice & Tone Guide**).  
